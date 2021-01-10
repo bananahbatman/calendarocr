@@ -35,6 +35,20 @@ If you run into issues on GNU/Linux you may have to install the following packag
 
 - tesseract-ocr
 
+**Additional Steps Before Using:**
+
+First, you need to have a google developer account.
+
+Then, visit this link
+
+https://developers.google.com/calendar/quickstart/python
+
+Click the blue "Enable the Google Calendar API" button. This should automatically set up a the necessary client_id, client_secret, and project_id. 
+
+Now download the JSON file by clicking the blue "" button.
+
+Place that file in your downloaded repository of calendarOCR.
+
 ## How To Use It: 
 1. Take a picture of a Calendar Event
 2. Crop the picture so such that there is only text and as little background as possible
