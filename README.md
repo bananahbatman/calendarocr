@@ -19,7 +19,7 @@ It would identify the event date to be **November 19, 2021** and the event name 
 
 A Google Event would be created with the name **Alexa's Party** and date **November 19, 2021**.
 
-<img src='googleCalExample.PNG' title='example image' align ="center" width='750' alt='example image' > 
+<img src='Photos/googleCalExample.PNG' title='example image' align ="center" width='750' alt='example image' > 
 
 ## How To Install:
 First run 
@@ -45,7 +45,19 @@ https://developers.google.com/calendar/quickstart/python
 
 Click the blue "Enable the Google Calendar API" button. This should automatically set up a the necessary client_id, client_secret, and project_id. 
 
+<img src='Photos/screenShot1.PNG' title='example image' align ="center" width='750' alt='example image' >
+
+Choose any name for the project
+
+<img src='Photos/screenShot2.PNG' title='example image' align ="center" width='750' alt='example image' >
+
+Select "Desktop App" for Configure Your OAuth CLient
+
+<img src='Photos/screenShot3.PNG' title='example image' align ="center" width='750' alt='example image' >
+
+
 Now download the JSON file by clicking the blue "" button.
+
 
 Place that file in your downloaded repository of calendarOCR.
 
