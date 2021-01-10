@@ -56,7 +56,7 @@ Select "Desktop App" for Configure Your OAuth CLient
 <img src='Photos/screenShot3.PNG' title='example image' align ="center" width='750' alt='example image' >
 
 
-Now download the JSON file by clicking the blue "" button.
+Now download the JSON file by clicking the blue "Download Client Configuration" button.
 
 
 Place that file in your downloaded repository of calendarOCR.
